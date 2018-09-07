@@ -1,0 +1,16 @@
+h1{
+	width: 500px;
+}
+
+p{
+	font-size: 1.5rem;
+}
+
+.jumbotron{
+	margin-top: 20px;
+}
+
+.row{
+	margin-bottom: 20px;
+}
+
